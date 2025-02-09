@@ -43,7 +43,7 @@ Este projeto utiliza um Raspberry Pi Pico para controlar uma matriz de LEDs RGB,
 - Pressionar o botão B para alternar o LED azul.
 
 ## Demonstração
-[Assista ao vídeo demonstrativo aqui](INSIRA_O_LINK_AQUI)
+https://youtube.com/shorts/ogty3olQsh4
 
 ## Autor
 DIEGO MICKAEL DE SÁ PEREIRA
